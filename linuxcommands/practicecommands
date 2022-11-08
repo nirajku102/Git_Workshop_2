@@ -1,4 +1,0 @@
-grep command is used to search for a string in a group of lines
-we have to always use | before executing any grep command
-sed command is used for insertion and deletion
-sed commands syntax is " first we have to cat the perticular file and then we have to use sed 's/newitem/existingitem/' filename
